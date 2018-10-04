@@ -21,3 +21,4 @@ the other
 the other
 
 Practice does not make perfect.
+Perfect practice makes perfect.
